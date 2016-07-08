@@ -47,7 +47,7 @@ User profile screen
 
 #### Views, View Controllers, and other Classes
 * Views
-  * [list all views you will need]
+  * To be added
 * View Controllers
   * Groups view controller
   * Chat view contoller
@@ -85,6 +85,6 @@ _starting the polish_
 
 #### Week 6
 _submitting to the App Store_
-* User testing and publish to the app store 
+* User testing and publish to the app store
 
 [Back to top ^](#)
