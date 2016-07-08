@@ -20,13 +20,13 @@
 ### App Design
 
 #### Objective
-[explain the goal of the app]
+Enable large organizations and enterprises to have their customized instant messaging app
 
 #### Audience
-[who is this app targeting?]
+Enterprises, large and medium organizations
 
 #### Experience
-[how will your users interact with this app?]
+Localization is a very important aspect for organizations to have
 
 [Back to top ^](#)
 
@@ -35,21 +35,27 @@
 ### Technical
 
 #### Screens
-* [list the different screens used in the app]
+Sign up Screen
+Login Screen  
+Groups screen
+Grpups chat screem
+One-to-One chat Screen
+User profile screen
 
 #### External services
-* [list which APIs or external services will your app use?]
+* Firebase
 
 #### Views, View Controllers, and other Classes
 * Views
   * [list all views you will need]
 * View Controllers
-  * [list all view controllers you will need]
+  * Groups view controller
+  * Chat view contoller
 * Other Classes
-  * [list any other classes you will need]
+  * Firebasehelper
 
 #### Data models
-* [list all Parse data models your app will need]
+* Chat.swift
 
 [Back to top ^](#)
 
@@ -60,24 +66,25 @@
 
 #### Week 1
 _planing your app_
-* [goals for the week]
+* Complet the app doc and prepare the APIs
 
 #### Week 2
 _finishing a usable build_
-* [goals for the week, should be finishing a usable app]
+* Wireframes desgin
 
 #### Week 3
-* [goals for the week]
+* Back-end development
 
 #### Week 4
-* [goals for the week, should be finishing all core features]
+* Storyboard desgin and development
+* APIs integration
 
 #### Week 5
 _starting the polish_
-* [goals for the week]
+* Polish the application
 
 #### Week 6
 _submitting to the App Store_
-* [goals for the week, should be finishing the polish -- demo day on Saturday!]
+* User testing and publish to the app store 
 
 [Back to top ^](#)
